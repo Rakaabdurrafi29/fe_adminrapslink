@@ -1,5 +1,8 @@
 import './globals.css'
 
+
+/* Tambahan CSS global Anda di sini jika ada */
+
 export const metadata = {
   title: 'Linktree Rakha',
   description: 'Daftar link sosial media Rakha',
